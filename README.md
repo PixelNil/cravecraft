@@ -1,6 +1,7 @@
 # 🍔 CraveCraft - The Ultimate Recipe Finder
 
-![Project Banner](https://via.placeholder.com/800x400?text=CraveCraft+Banner)
+![Project Banner]<img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/ef379c35-23bc-45e3-9683-e40586938bc6" />
+
 
 > **"Fridge Full, Mind Empty?"** CraveCraft solves the dilemma of what to cook.
 
